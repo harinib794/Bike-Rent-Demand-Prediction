@@ -2,7 +2,7 @@
 Implemented Linear &amp; Logistic Regression by developing the cost function and gradient descent algorithms from scratch in Python to predict rented bike demand based on environmental conditions.    
 The dataset source: https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
 
-#Data Dictionary     
+# Data Dictionary     
 Date: year-month-day     
 Rented Bike count - Count of bikes rented at each hour    
 Hour - Hour of the day     
@@ -17,5 +17,8 @@ Snowfall - cm
 Seasons - Winter, Spring, Summer, Autumn     
 Holiday - Holiday/No holiday     
 Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)      
+
+# Conclusion
+Modelled a best fit Stepwise Linear Regression model to predict the Rented Bike demand with 80% accuracy.
 
 Refer to Bike Rent Demand Prediction.pdf for detailed approach and analysis.    
